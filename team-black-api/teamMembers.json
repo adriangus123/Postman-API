@@ -28,5 +28,55 @@
     "id": 6,
     "name": "Emerlyn Gonzales",
     "role": "Assistant Manager"
+  },
+  {
+    "id": 7,
+    "name": "Adrian Gutierrez",
+    "role": "Web Developer"
+  },
+  {
+    "id": 8,
+    "name": "Gian Angelo Mico",
+    "role": "Web Developer"
+  },
+  {
+    "id": 9,
+    "name": "John Cedric Magtibay",
+    "role": "Web Developer"
+  },
+  {
+    "id": 10,
+    "name": "Joyelie Magtibay",
+    "role": "Graphic Designer"
+  },
+  {
+    "id": 11,
+    "name": "Martin Banaag",
+    "role": "Graphic Designer"
+  },
+  {
+    "id": 12,
+    "name": "Clyde Cabigas",
+    "role": "Graphic Designer"
+  },
+  {
+    "id": 13,
+    "name": "Nicole Allyson Baylon",
+    "role": "SEO Specialists"
+  },
+  {
+    "id": 14,
+    "name": "Maica Lanuza",
+    "role": "SEO Specialists"
+  },
+  {
+    "id": 15,
+    "name": "Janessa Mandayo",
+    "role": "Virtaul Assistants (VA)"
+  },
+  {
+    "id": 16,
+    "name": "Hazel Soledad",
+    "role": "Virtaul Assistants (VA)"
   }
 ]
