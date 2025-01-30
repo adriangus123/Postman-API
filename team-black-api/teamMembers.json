@@ -1,0 +1,77 @@
+[
+    {
+      "id": 1,
+      "name": "Stephanie Anne Belludo",
+      "role": "Manager"
+    },
+    {
+      "id": 2,
+      "name": "Ellen Joy Vilela",
+      "role": "Assistant Manager"
+    },
+    {
+      "id": 3,
+      "name": "Jared Endaya",
+      "role": "Assistant Manager"
+    },
+    {
+      "id": 4,
+      "name": "Matthew Kyle Serote",
+      "role": "Assistant Manager"
+    },
+    {
+      "id": 5,
+      "name": "Jessa Erica Macalintal",
+      "role": "Assistant Manager"
+    },
+    {
+      "id": 6,
+      "name": "Emerlyn Gonzales",
+      "role": "Assistant Manager"
+    },
+    {
+      "id": 7,
+      "name": "Adrian Benedicto Gutierrez",
+      "role": "Web Developer"
+    },
+    {
+      "id": 8,
+      "name": "John Cedric Magtibay",
+      "role": "Web Developer"
+    },
+    {
+      "id": 9,
+      "name": "Joyelie Magtibay",
+      "role": "Graphic Designer"
+    },
+    {
+      "id": 10,
+      "name": "Martin Banaag",
+      "role": "Graphic Designer"
+    },
+    {
+      "id": 11,
+      "name": "Clyde Cabigas",
+      "role": "Graphic Designer"
+    },
+    {
+      "id": 12,
+      "name": "Nicole Allyson Baylon",
+      "role": "SEO Specialists"
+    },
+    {
+      "id": 13,
+      "name": "Maica Lanuza",
+      "role": "SEO Specialists"
+    },
+    {
+      "id": 14,
+      "name": "Janessa Mandayo",
+      "role": "Virtaul Assistants (VA)"
+    },
+    {
+      "id": 15,
+      "name": "Hazel Soledad",
+      "role": "Virtaul Assistants (VA)"
+    }
+  ]
