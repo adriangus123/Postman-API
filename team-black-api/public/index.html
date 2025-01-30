@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team Black Members</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>TEAM BLACK MEMBERS</h1>
+    <div class="filter-container">
+        <input type="text" id="filterInput" placeholder="Search">
+        <select id="filterDropdown">
+            <option value="all">All</option>
+            <option value="id">Member ID</option>
+            <option value="name">Name</option>
+            <option value="role">Role</option>
+        </select>
+    </div>
+    <div class="table-wrapper">
+        <table id="teamTable">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Role</th>
+                </tr>
+            </thead>
+            <tbody id="teamList">
+            </tbody>
+        </table>
+        <div id="noResults" class="no-results">NO RESULT</div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
